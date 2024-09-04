@@ -9,3 +9,7 @@ SELECT * FROM Customers;
 
 Keep in Mind That...
 SQL keywords are NOT case sensitive: select is the same as SELECT
+
+Semicolon after SQL Statements?
+Some database systems require a semicolon at the end of each SQL statement.
+Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement to be executed in the same call to the server.
