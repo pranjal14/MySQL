@@ -6,3 +6,6 @@ How to Use SQL
 The following SQL statement selects all the records in the "Customers" table:
 Example
 SELECT * FROM Customers;
+
+Keep in Mind That...
+SQL keywords are NOT case sensitive: select is the same as SELECT
