@@ -1,1 +1,2 @@
-
+MySQL COUNT(), AVG() and SUM() Functions
+The COUNT() function returns the number of rows that matches a specified criterion.
