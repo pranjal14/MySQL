@@ -11,3 +11,9 @@ AVG() Syntax
 SELECT AVG(column_name)
 FROM table_name
 WHERE condition;
+
+The SUM() function returns the total sum of a numeric column. 
+SUM() Syntax
+SELECT SUM(column_name)
+FROM table_name
+WHERE condition;
