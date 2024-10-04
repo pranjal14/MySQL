@@ -1,1 +1,2 @@
-
+MySQL LEFT JOIN Keyword
+The LEFT JOIN keyword returns all records from the left table (table1), and the matching records (if any) from the right table (table2).
