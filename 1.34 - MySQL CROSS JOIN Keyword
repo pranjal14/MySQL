@@ -1,4 +1,7 @@
 SQL CROSS JOIN Keyword
 The CROSS JOIN keyword returns all records from both tables (table1 and table2).
 
-
+CROSS JOIN Syntax
+SELECT column_name(s)
+FROM table1
+CROSS JOIN table2;
