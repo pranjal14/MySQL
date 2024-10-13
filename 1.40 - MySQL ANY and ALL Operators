@@ -16,3 +16,10 @@ WHERE column_name operator ANY
   WHERE condition);
 
 Note: The operator must be a standard comparison operator (=, <>, !=, >, >=, <, or <=).
+
+The ALL Operator
+The ALL operator:
+returns a boolean value as a result
+returns TRUE if ALL of the subquery values meet the condition
+is used with SELECT, WHERE and HAVING statements
+ALL means that the condition will be true only if the operation is true for all values in the range.
