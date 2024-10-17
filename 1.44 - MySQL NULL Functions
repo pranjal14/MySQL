@@ -1,1 +1,7 @@
+MySQL IFNULL() and COALESCE() Functions
+Suppose that the "UnitsOnOrder" column is optional, and may contain NULL values.
+
+SELECT ProductName, UnitPrice * (UnitsInStock + UnitsOnOrder)
+FROM Products;
+In the example above, if any of the "UnitsOnOrder" values are NULL, the result will be NULL.
 
