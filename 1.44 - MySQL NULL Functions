@@ -5,3 +5,4 @@ SELECT ProductName, UnitPrice * (UnitsInStock + UnitsOnOrder)
 FROM Products;
 In the example above, if any of the "UnitsOnOrder" values are NULL, the result will be NULL.
 
+MySQL IFNULL() Function
