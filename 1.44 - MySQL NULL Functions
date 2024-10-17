@@ -6,3 +6,5 @@ FROM Products;
 In the example above, if any of the "UnitsOnOrder" values are NULL, the result will be NULL.
 
 MySQL IFNULL() Function
+The MySQL IFNULL() function lets you return an alternative value if an expression is NULL.
+The example below returns 0 if the value is NULL:
