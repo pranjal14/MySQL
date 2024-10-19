@@ -20,3 +20,14 @@ Operator	Description	Example
 >=	Greater than or equal to	
 <=	Less than or equal to	
 <>	Not equal to
+
+MySQL Compound Operators
+Operator	Description
++=	Add equals
+-=	Subtract equals
+*=	Multiply equals
+/=	Divide equals
+%=	Modulo equals
+&=	Bitwise AND equals
+^-=	Bitwise exclusive equals
+|*=	Bitwise OR equals
