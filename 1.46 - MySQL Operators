@@ -1,1 +1,7 @@
-
+MySQL Arithmetic Operators
+Operator	Description	Example
++	Add	
+-	Subtract	
+*	Multiply	
+/	Divide	
+%	Modulo
