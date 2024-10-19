@@ -5,3 +5,9 @@ Operator	Description	Example
 *	Multiply	
 /	Divide	
 %	Modulo
+
+MySQL Bitwise Operators
+Operator	Description
+&	Bitwise AND
+|	Bitwise OR
+^	Bitwise exclusive OR
