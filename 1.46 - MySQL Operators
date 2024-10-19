@@ -11,3 +11,12 @@ Operator	Description
 &	Bitwise AND
 |	Bitwise OR
 ^	Bitwise exclusive OR
+
+MySQL Comparison Operators
+Operator	Description	Example
+=	Equal to	
+>	Greater than	
+<	Less than	
+>=	Greater than or equal to	
+<=	Less than or equal to	
+<>	Not equal to
