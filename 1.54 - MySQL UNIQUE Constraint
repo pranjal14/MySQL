@@ -14,3 +14,8 @@ CREATE TABLE Persons (
     Age int,
     UNIQUE (ID)
 );
+
+DROP a UNIQUE Constraint
+To drop a UNIQUE constraint, use the following SQL:
+ALTER TABLE Persons
+DROP INDEX UC_Person;
