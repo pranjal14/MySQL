@@ -4,3 +4,13 @@ Both the UNIQUE and PRIMARY KEY constraints provide a guarantee for uniqueness f
 A PRIMARY KEY constraint automatically has a UNIQUE constraint.
 However, you can have many UNIQUE constraints per table, but only one PRIMARY KEY constraint per table.
 
+UNIQUE Constraint on CREATE TABLE
+The following SQL creates a UNIQUE constraint on the "ID" column when the "Persons" table is created:
+
+CREATE TABLE Persons (
+    ID int NOT NULL,
+    LastName varchar(255) NOT NULL,
+    FirstName varchar(255),
+    Age int,
+    UNIQUE (ID)
+);
